@@ -1,5 +1,7 @@
 # Navier-Stokes Vorticity Simulator
 
+[![Sponsor](https://img.shields.io/badge/sponsor-RDM3DC-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/RDM3DC)
+
 A minimal 3D incompressible Navier-Stokes solver using spectral methods and PyTorch.
 
 ## Requirements
